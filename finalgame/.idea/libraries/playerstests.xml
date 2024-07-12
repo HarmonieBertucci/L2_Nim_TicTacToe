@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="playerstests">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/playerstests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

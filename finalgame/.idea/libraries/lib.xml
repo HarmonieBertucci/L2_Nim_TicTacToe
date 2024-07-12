@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/geometrytests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/judgestests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/firstgamestests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/secondgamestests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/phonebooktests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/housestests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/volumestests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
